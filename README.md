@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/187189475?v=4" alt="Мое фото" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
-
 # Привет, я **Snappus**! 👋
 
 Я ленивый программист, который работает когда ему хочется. 
